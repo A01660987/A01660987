@@ -1,4 +1,4 @@
-### Hi there 👋
+### CS Student @ Tecnológico de Monterrey, Mexico City campus
 
 <!--
 **A01660987/A01660987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
